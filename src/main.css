@@ -1,0 +1,35 @@
+body {
+  margin: 0;
+}
+
+.dropdown {
+  position: relative;
+  display: inline-block;
+}
+.dropdown:hover .dropdown-content { 
+  display:block; 
+}
+.dropdown:focus .dropdown-content { 
+  display:block; 
+}
+.dropdown-content {
+  display: none;
+  position: absolute;
+  z-index: 1;
+}
+
+/*
+  Verse
+*/
+
+
+/*
+  hexmap 
+*/
+svg {}
+
+polygon.hex {
+  fill : white;
+  stroke : black;
+}
+
