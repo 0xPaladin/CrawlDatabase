@@ -1,5 +1,14 @@
 # CrawlDatabase
 A database of ttrpg point/hexcrawl resources
 
-## TODO
-https://www.reddit.com/r/osr/comments/rtzam6/hexcrawl_resources_i_have_known_and_loved/
+## Infinite Crawls
+Want to crawl infinitely without worrying about creating a "planet"?
+
+- Cepheus Engine (scifi)
+- Downcrawl (fantasy/underground)
+- Skycrawl (fantasy/sky)
+- Stars Without Number (scifi)
+- Unconquered (fantasy/weird)
+- UVG (fantasy/weird/plains)
+- Veins of the Earth (fantasy/underground)
+- Vast in the Dark (fantasy/desert)
